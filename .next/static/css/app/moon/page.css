@@ -1,0 +1,167 @@
+/*!***********************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[3].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[3].oneOf[7].use[3]!./src/app/moon/style.module.css ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************/
+.style_container__XcTAt {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 20vw;
+    margin-top: 300px;
+    margin-bottom: 300px;
+  }
+  
+  .style_body__fBixL{
+    font-size: 5vw;
+  }
+  
+  .style_lm__YPuKL{
+    overflow: hidden;
+  }
+  
+  .style_lm__YPuKL p{
+    margin: 0px;
+    font-weight: 700;
+  }
+  
+
+.style_description__vw81H{
+    display: flex;
+    justify-content: flex-end;
+    font-size: 12px;
+    margin: 0px;
+  }
+  .style_description__vw81H p:nth-of-type(1){
+  }
+  .style_description__vw81H p:nth-of-type(2){
+    font-size: 28px;
+    width: 700px;
+    margin-left: 30px;
+  }
+  
+  .style_line__e97AD{
+    height: 1px;
+    margin-bottom: 20px;
+    width: 100%;
+    position: relative;
+  }
+  
+  .style_line__e97AD svg{
+    width: 100%;
+    height: 500px;
+    position: absolute;
+    top: -250px;
+  }
+  
+  .style_line__e97AD svg path{
+    stroke: white;
+    stroke-width: 1px;
+    fill: none;
+  }
+  
+  .style_line__e97AD .style_box__2ioJR{
+    height: 40px;
+    width: 100%;
+    position: relative;
+    top: -20px;
+    z-index: 1;
+  }
+  
+  .style_line__e97AD .style_box__2ioJR:hover{
+    height: 500px;
+
+  }
+
+.style_main__iS3vw{
+    margin-bottom: 100vh;
+  }
+  
+  .style_container__XcTAt{
+    position: relative;
+    height: 300vh;
+    background-color: black;
+  }
+  
+  .style_stickyMask__4mjYM{
+    display: flex;
+    overflow: hidden;
+    position: sticky;
+    top: 0;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    -webkit-mask-image: url('/medias/moon.svg');
+            mask-image: url('/medias/moon.svg');
+    -webkit-mask-position: 52.35% center;
+            mask-position: 52.35% center;
+    -webkit-mask-repeat: no-repeat;
+            mask-repeat: no-repeat;
+    -webkit-mask-size: 80%;
+            mask-size: 80%;
+  }
+  
+  .style_stickyMask__4mjYM video{
+    height: 100%;
+    width: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+  
+
+/* .projects{
+    position: relative;
+    color: white;
+    margin-top: 25vh;
+    padding: 10%;
+}
+
+.projectDescription{
+    display: flex;
+    height: 700px;
+    justify-content: space-between;
+    gap: 5%;
+}
+
+.imageContainer{
+    position: relative;
+    height: 100%;
+    width: 40%;
+}
+
+.imageContainer img{
+    object-fit: cover;
+}
+
+.column{
+    display: flex;
+    height: 100%;
+    width: 20%;
+    font-size: 1.6vw;
+}
+
+.column:last-of-type{
+    align-items: flex-end;
+    font-size: 1vw;
+}
+
+.projectList{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    margin-top: 200px;
+}
+
+.projectEl{
+    width: 100%;
+    color: white;
+    text-transform: uppercase;
+    font-size: 3vw;
+    border-bottom: 1px solid white;
+    display: flex;
+    justify-content: flex-end;
+}
+.projectEl h2{
+    margin: 0px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    cursor: default;
+} */
